@@ -1,0 +1,27 @@
+Model,Data,Language Model,Language,AnswerExactMatch,AnswerF1Score
+lmqg/bart-base-squad-ae,lmqg/qg_squad,facebook/bart-base,English,58.17,69.47
+lmqg/bart-large-squad-ae,lmqg/qg_squad,facebook/bart-large,English,58.95,69.67
+lmqg/t5-base-squad-ae,lmqg/qg_squad,t5-base,English,59.48,70.32
+lmqg/t5-large-squad-ae,lmqg/qg_squad,t5-large,English,59.77,70.41
+lmqg/t5-small-squad-ae,lmqg/qg_squad,t5-small,English,56.15,68.06
+lmqg/mbart-large-cc25-frquad-ae,lmqg/qg_frquad,facebook/mbart-large-cc25,French,39.99,65.44
+lmqg/mt5-base-frquad-ae,lmqg/qg_frquad,google/mt5-base,French,3.92,19.32
+lmqg/mt5-small-frquad-ae,lmqg/qg_frquad,google/mt5-small,French,39.05,59.77
+lmqg/mbart-large-cc25-dequad-ae,lmqg/qg_dequad,facebook/mbart-large-cc25,German,0.0,6.06
+lmqg/mt5-base-dequad-ae,lmqg/qg_dequad,google/mt5-base,German,5.54,30.15
+lmqg/mt5-small-dequad-ae,lmqg/qg_dequad,google/mt5-small,German,8.8,36.07
+lmqg/mbart-large-cc25-itquad-ae,lmqg/qg_itquad,facebook/mbart-large-cc25,Italian,16.38,22.35
+lmqg/mt5-base-itquad-ae,lmqg/qg_itquad,google/mt5-base,Italian,52.15,68.09
+lmqg/mt5-small-itquad-ae,lmqg/qg_itquad,google/mt5-small,Italian,55.07,70.41
+lmqg/mbart-large-cc25-jaquad-ae,lmqg/qg_jaquad,facebook/mbart-large-cc25,Japanese,16.02,16.04
+lmqg/mt5-base-jaquad-ae,lmqg/qg_jaquad,google/mt5-base,Japanese,28.33,28.33
+lmqg/mt5-small-jaquad-ae,lmqg/qg_jaquad,google/mt5-small,Japanese,23.99,24.01
+lmqg/mbart-large-cc25-koquad-ae,lmqg/qg_koquad,facebook/mbart-large-cc25,Korean,79.92,86.7
+lmqg/mt5-base-koquad-ae,lmqg/qg_koquad,google/mt5-base,Korean,69.49,77.32
+lmqg/mt5-small-koquad-ae,lmqg/qg_koquad,google/mt5-small,Korean,79.41,86.39
+lmqg/mbart-large-cc25-ruquad-ae,lmqg/qg_ruquad,facebook/mbart-large-cc25,Russian,30.98,55.45
+lmqg/mt5-base-ruquad-ae,lmqg/qg_ruquad,google/mt5-base,Russian,28.59,54.69
+lmqg/mt5-small-ruquad-ae,lmqg/qg_ruquad,google/mt5-small,Russian,33.0,56.62
+lmqg/mbart-large-cc25-esquad-ae,lmqg/qg_esquad,facebook/mbart-large-cc25,Spanish,53.78,71.88
+lmqg/mt5-base-esquad-ae,lmqg/qg_esquad,google/mt5-base,Spanish,57.81,74.84
+lmqg/mt5-small-esquad-ae,lmqg/qg_esquad,google/mt5-small,Spanish,56.14,73.93

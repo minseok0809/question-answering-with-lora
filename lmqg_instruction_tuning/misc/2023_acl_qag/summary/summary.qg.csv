@@ -1,0 +1,27 @@
+Model,Data,Language Model,Language,BERTScore,METEOR,MoverScore,ROUGE-L
+lmqg/bart-base-squad-qg,lmqg/qg_squad,facebook/bart-base,English,90.87,26.05,64.47,52.66
+lmqg/bart-large-squad-qg,lmqg/qg_squad,facebook/bart-large,English,91.0,27.07,64.99,53.85
+lmqg/t5-base-squad-qg,lmqg/qg_squad,t5-base,English,90.6,26.97,64.74,53.33
+lmqg/t5-large-squad-qg,lmqg/qg_squad,t5-large,English,91.0,27.7,65.29,54.13
+lmqg/t5-small-squad-qg,lmqg/qg_squad,t5-small,English,90.2,25.84,63.89,51.43
+lmqg/mbart-large-cc25-frquad-qg,lmqg/qg_frquad,facebook/mbart-large-cc25,French,81.75,19.8,57.96,30.62
+lmqg/mt5-base-frquad-qg,lmqg/qg_frquad,google/mt5-base,French,77.81,15.55,54.58,25.88
+lmqg/mt5-small-frquad-qg,lmqg/qg_frquad,google/mt5-small,French,80.71,17.51,56.5,28.56
+lmqg/mbart-large-cc25-dequad-qg,lmqg/qg_dequad,facebook/mbart-large-cc25,German,80.77,13.71,55.88,11.19
+lmqg/mt5-base-dequad-qg,lmqg/qg_dequad,google/mt5-base,German,80.39,13.65,55.73,11.1
+lmqg/mt5-small-dequad-qg,lmqg/qg_dequad,google/mt5-small,German,79.9,11.47,54.64,10.08
+lmqg/mbart-large-cc25-itquad-qg,lmqg/qg_itquad,facebook/mbart-large-cc25,Italian,80.63,17.97,56.84,21.69
+lmqg/mt5-base-itquad-qg,lmqg/qg_itquad,google/mt5-base,Italian,81.16,18.0,57.11,22.51
+lmqg/mt5-small-itquad-qg,lmqg/qg_itquad,google/mt5-small,Italian,80.8,17.57,56.79,21.93
+lmqg/mbart-large-cc25-jaquad-qg,lmqg/qg_jaquad,facebook/mbart-large-cc25,Japanese,82.26,29.97,59.88,52.95
+lmqg/mt5-base-jaquad-qg,lmqg/qg_jaquad,google/mt5-base,Japanese,81.77,30.58,59.68,52.67
+lmqg/mt5-small-jaquad-qg,lmqg/qg_jaquad,google/mt5-small,Japanese,80.87,29.03,58.67,50.88
+lmqg/mbart-large-cc25-koquad-qg,lmqg/qg_koquad,facebook/mbart-large-cc25,Korean,83.89,30.23,82.95,27.76
+lmqg/mt5-base-koquad-qg,lmqg/qg_koquad,google/mt5-base,Korean,84.52,29.62,83.36,28.57
+lmqg/mt5-small-koquad-qg,lmqg/qg_koquad,google/mt5-small,Korean,82.89,27.52,82.49,25.64
+lmqg/mbart-large-cc25-ruquad-qg,lmqg/qg_ruquad,facebook/mbart-large-cc25,Russian,87.18,29.3,65.88,34.18
+lmqg/mt5-base-ruquad-qg,lmqg/qg_ruquad,google/mt5-base,Russian,85.82,28.48,64.56,33.02
+lmqg/mt5-small-ruquad-qg,lmqg/qg_ruquad,google/mt5-small,Russian,84.27,26.39,62.49,31.39
+lmqg/mbart-large-cc25-esquad-qg,lmqg/qg_esquad,facebook/mbart-large-cc25,Spanish,83.58,22.95,58.91,24.26
+lmqg/mt5-base-esquad-qg,lmqg/qg_esquad,google/mt5-base,Spanish,84.47,23.43,59.62,25.45
+lmqg/mt5-small-esquad-qg,lmqg/qg_esquad,google/mt5-small,Spanish,84.07,22.71,59.06,24.62
