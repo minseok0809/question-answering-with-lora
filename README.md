@@ -2,6 +2,11 @@
 `HuggingFace`  `Weight & Biases`  `Matplotlib` `Openpyxl`
 <br></br><br><br><br>
 
+## Introduction
+This project is demo code for 질문 생성 성능 향상을 위한 대규모 언어 모델 Post-training 적용 방법 [[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705119)].
+
+<br><br>
+
 ## LMQG + LoRA
 [asahi417/lm-question-generation](https://github.com/asahi417/lm-question-generation)
 <br>[LMQG](https://huggingface.co/lmqg)
