@@ -3,7 +3,7 @@
 <br></br><br><br><br>
 
 ## Introduction
-This project is demo code for 질문 생성 성능 향상을 위한 대규모 언어 모델 Post-training 적용 방법 [[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705119)].
+This project is demo code for 한국소프트웨어종합학술대회(KSC) 2023 질문 생성 성능 향상을 위한 대규모 언어 모델 Post-training 적용 방법 [[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705119)].
 
 <br><br>
 
